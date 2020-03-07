@@ -19,4 +19,8 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 ^stat(s|istics)?[0-9]*[_.-]
 ^track(ers?|ing)?[0-9]*[_.-]
 ^traff(ic)?[.-]
-(^|\.)Br$(^|\.)In$(^|\.)Tr$(^|\.)ru$(^|\.)wang$
+(^|\.)Br$
+(^|\.)In$
+(^|\.)Tr$
+(^|\.)ru$
+(^|\.)wang$
