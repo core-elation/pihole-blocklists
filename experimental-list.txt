@@ -1,3 +1,12 @@
+#NZXT App
 ae3b43970a72d11e9b37602e956af190-dc1cb0fb0c12e11a.elb.us-west-2.amazonaws.com
+#Ads 
 ads.revjet.com
+#Oculus
 graph.oculus.com
+#FireFox
+autopush.prod.mozaws.net
+detectportal.firefox.com
+firefoxusercontent.com
+location.services.mozilla.com
+push.services.mozilla.com
